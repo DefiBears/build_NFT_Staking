@@ -1,11 +1,11 @@
 :root {
-  --primary: #40b441;
-  --primary-text: #242424d3;
-  --secondary: #ffc06c;
-  --hotpink: #de2bd0;
+  --primary: #00000093;
+  --primary-text: #1a1a1a;
+  --secondary: #ffffff;
+  --blue: #00aeff;
   --secondary-text: #ffffff;
   --accent: #505050;
   --accent-text: #ffffff;
   --yellow: #f7faa6;
-  --box: #eaf7ffc5;
+  --background: rgba(0, 0, 0, 0.74);
 }
